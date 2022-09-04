@@ -1,6 +1,8 @@
 *.pdf
 *.hcl
 
+.DS_Store
+
 **/.terraform/*
 
 # .tfstate files
